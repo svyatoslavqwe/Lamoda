@@ -1,4 +1,5 @@
-![Lamoda](https://github.com/svyatoslavqwe/Lamoda/assets/152086601/3945550d-5f2c-4370-80b7-c11bff4844c7)
+![Lamoda](https://github.com/svyatoslavqwe/Lamoda/assets/152086601/c17dfd33-3139-4f26-956e-d16cafe7022e)
+
 
 **Проект Lamoda**
 
